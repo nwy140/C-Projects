@@ -21,7 +21,7 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Cat.h">
+    <ClInclude Include="Person.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -29,10 +29,10 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Constructors and Destructors.cpp">
+    <ClCompile Include="Getters and Setters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Cat.cpp">
+    <ClCompile Include="Person.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
