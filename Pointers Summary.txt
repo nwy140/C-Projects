@@ -1,0 +1,12 @@
+Declaration of Pointer
+int * pVar = &mVar; //points to memory of a variable
+Reference
+int &var1=var2;     // var1 is just another alias reference for var2,  //if one variable change, the other changes too
+Declaration of Variable
+int var1 = 1; 	   // allocate sizeof(type) memory and store value in it
+
+Outside Declaration
+*pVar //value of variable at pointer // dereference
+pVar  // memory pointer pointing to
+
+&mVar // memory address of variable  
